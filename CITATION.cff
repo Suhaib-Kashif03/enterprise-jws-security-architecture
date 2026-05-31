@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "Enterprise JWS Security Architecture"
+version: 1.0.0
+date-released: 2026-06-01
+authors:
+  - family-names: "Kashif"
+    given-names: "Suhaib"
+    affiliation: "Information Technology University, Lahore"
+doi: 10.5281/zenodo.1234567
+url: "https://github.com/Suhaib-Kashif03/enterprise-jws-security-architecture"
